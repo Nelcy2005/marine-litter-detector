@@ -2,7 +2,7 @@
 
 A web application powered by Google's Gemini Vision AI to detect, analyze, and categorize marine plastic waste in coastal and underwater environments. 
 
-***  Live Demo:** [https://marine-litter-detector.onrender.com](https://marine-litter-detector.onrender.com)
+**Live Demo:** [https://marine-litter-detector.onrender.com](https://marine-litter-detector.onrender.com)
 
 ##  Features
 * **AI Image Detection:** Upload images to instantly identify plastic bottles, microplastics, and other marine debris.
@@ -40,5 +40,4 @@ GEMINI_API_KEY="your_api_key_here"
 **Bash**
 npm run dev
 
-👨‍💻 Developer
-Nelcy Vincent
+👨‍💻 **Developer** : Nelcy Vincent
