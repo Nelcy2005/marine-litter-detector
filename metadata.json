@@ -1,0 +1,6 @@
+{
+  "name": "Marine Litter & Plastic Pollution Detector",
+  "description": "Identify and categorize plastic waste on beaches or underwater, calculate Pollution Index scores using Gemini AI Vision, visualize density maps, and log stats.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
